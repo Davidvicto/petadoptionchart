@@ -1,0 +1,59 @@
+.navbar{
+position: absolute;
+width: 100%;
+height: 78px;
+left: 0px;
+top: 21px;
+background: #FFFFFF;
+box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.04);
+}
+.navbar-container-text{
+position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+margin-left:128px;
+color: #344062
+}
+.Petly{
+    margin-top:15px;
+}
+.Find{
+margin-top:-48px;
+margin-left:260.67px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+}
+.Report{
+margin-top:-29px;
+margin-left:589.67px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+}
+.nav-container-children1{
+width: 50px;
+height: 50px;
+background: #0D75FF;
+border-radius: 50px; 
+margin-left:63px;
+}
+.nav-container-children{ 
+display:flex;
+width:109px;
+height:46px;
+margin-left:1096.43px;
+margin-top: -49px;
+align-items: center;
+justify-content: space-evenly;
+background: #FFFFFF;
+border: 1px solid #E7EDFD;
+border-radius: 10px;
+}
